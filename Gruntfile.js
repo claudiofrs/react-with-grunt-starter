@@ -1,3 +1,6 @@
+// Konfigurasi berdasarkan http://billpatrianakos.me/blog/2017/02/03/using-react-with-webpack-and-es6-in-a-grunt-task/
+// dengan beberapa modifikasi seperlunya
+
 module.exports = function(grunt) {
 
   // Time your grunt tasks and never need to loadGruntTask again
@@ -92,7 +95,7 @@ module.exports = function(grunt) {
         progress: true,
         failOnError: true,
         watch: true,
-        keepalive: false,
+        keepalive: false, // biar ga blocking task selanjutnya
         module: {
           loaders: [
             { test: /\.(js|jsx)$/, 

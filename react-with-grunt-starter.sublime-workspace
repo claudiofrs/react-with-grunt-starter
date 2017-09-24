@@ -1,0 +1,1186 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"source",
+				"sourceMap"
+			],
+			[
+				"total",
+				"totalHeight"
+			],
+			[
+				"tot",
+				"totalHeight"
+			],
+			[
+				"html",
+				"berita10.html"
+			],
+			[
+				"berita",
+				"berita6.html"
+			],
+			[
+				"marig",
+				"margin-bottom"
+			],
+			[
+				"list",
+				"list-style-type"
+			],
+			[
+				"comm",
+				"comm\tComment - Single-line block comment"
+			],
+			[
+				"op",
+				"opacity"
+			],
+			[
+				"fun",
+				"fun\tFunction"
+			],
+			[
+				"in",
+				"in.html"
+			],
+			[
+				"side",
+				"sideLinkLi"
+			],
+			[
+				"ch",
+				"children\t.children()"
+			],
+			[
+				"togg",
+				"toggleClass\t.toggleClass()"
+			],
+			[
+				"ea",
+				"each\t$.each()"
+			],
+			[
+				"car",
+				"carousel.js"
+			],
+			[
+				"read",
+				"ready\t$(document).ready"
+			],
+			[
+				"ls",
+				"lts\tletter-spacing"
+			],
+			[
+				"to",
+				"tov\ttext-overflow: ${ellipsis};"
+			],
+			[
+				"fla",
+				"flag-id-active.png\tw:14 h:13"
+			],
+			[
+				"pos",
+				"pos-a\tposition: absolute;"
+			],
+			[
+				"lst",
+				"list\tlist-style-type"
+			],
+			[
+				"cl",
+				"class\tAttr"
+			],
+			[
+				"bow",
+				"bower_components/"
+			],
+			[
+				"filter",
+				"filterIndikator"
+			],
+			[
+				"data",
+				"dataProvIndikator"
+			],
+			[
+				"parse",
+				"parsedDataYear"
+			],
+			[
+				"pars",
+				"parsedDataYear"
+			],
+			[
+				"offse",
+				"offsetId"
+			],
+			[
+				"filterP",
+				"filterProvinsi"
+			],
+			[
+				"glbA",
+				"glbArrYearContent"
+			],
+			[
+				"cal",
+				"callProvinsi"
+			],
+			[
+				"s",
+				"statistik.js"
+			],
+			[
+				"bool",
+				"boolJKCalon"
+			],
+			[
+				"candi",
+				"candidateId"
+			],
+			[
+				"jk",
+				"jkCalon"
+			],
+			[
+				"statjk",
+				"statJkCalon"
+			],
+			[
+				"scrol",
+				"scrollTop"
+			],
+			[
+				"que",
+				"questionPop"
+			],
+			[
+				"pop",
+				"popQuestion"
+			],
+			[
+				"arr",
+				"arrFaq"
+			],
+			[
+				"faq",
+				"faqValue"
+			],
+			[
+				"ar",
+				"arrFaq"
+			],
+			[
+				"re",
+				"relevant_laws_regulations"
+			],
+			[
+				"q",
+				"question_answer"
+			],
+			[
+				"quest",
+				"question_text"
+			],
+			[
+				"cll",
+				"callAllQuestion"
+			],
+			[
+				"add",
+				"addClass"
+			],
+			[
+				"all",
+				"allContentInner"
+			],
+			[
+				"visi",
+				"vision_missions"
+			],
+			[
+				"visiM",
+				"vismisiValue"
+			],
+			[
+				"local",
+				"localStorage"
+			],
+			[
+				"visim",
+				"vismisiValue"
+			],
+			[
+				"cand",
+				"candidateId"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"miis",
+				"misiCaleg"
+			],
+			[
+				"misi",
+				"misiCaleg"
+			],
+			[
+				"val",
+				"value"
+			],
+			[
+				"populate",
+				"populateProvinsiLoadRegionSelect2"
+			],
+			[
+				"parsed",
+				"parsedVisiMisi"
+			],
+			[
+				"str",
+				"stringify"
+			],
+			[
+				"call",
+				"callVisimisi"
+			],
+			[
+				"id",
+				"idCaleg"
+			],
+			[
+				"jumla",
+				"jumlahDukunganAwal"
+			],
+			[
+				"jumlah",
+				"jumlahDukunganPerbaikan"
+			],
+			[
+				"jumlahD",
+				"jumlahDukunganPerbaikan"
+			],
+			[
+				"jum",
+				"jumlahDukunganAwal"
+			],
+			[
+				"jen",
+				"jenisDukungan"
+			],
+			[
+				"fn",
+				"fun\tFunction"
+			],
+			[
+				"class",
+				"classMenu"
+			],
+			[
+				"jumlahd",
+				"jumlahDukunganPerbaikan"
+			],
+			[
+				"stat",
+				"statistik"
+			],
+			[
+				"statis",
+				"statistik"
+			],
+			[
+				"pemen",
+				"pemenuhanSyaratDukungan"
+			],
+			[
+				"pener",
+				"penerimaanDokumenPerbaikan"
+			],
+			[
+				"ke",
+				"kelengkapan"
+			],
+			[
+				"remove",
+				"removeClass"
+			],
+			[
+				"sl",
+				"slideToggle"
+			],
+			[
+				"content",
+				"contentInner"
+			],
+			[
+				"pene",
+				"penerimaanDokumenPerbaikan"
+			],
+			[
+				"count",
+				"countCard"
+			],
+			[
+				"loadC",
+				"loadCalegProvinsi"
+			],
+			[
+				"cou",
+				"countCard"
+			],
+			[
+				"nama",
+				"namaCalon"
+			],
+			[
+				"daerahLa",
+				"daerahLahirWakil"
+			],
+			[
+				"ala",
+				"alamatCalon"
+			],
+			[
+				"daerah",
+				"daerahLahirCalon"
+			],
+			[
+				"kerja",
+				"kerjaCalon"
+			],
+			[
+				"conte",
+				"contentInner"
+			],
+			[
+				"us",
+				"usiaCalon"
+			],
+			[
+				"stri",
+				"stringBerkas"
+			],
+			[
+				"candidate",
+				"candidateId"
+			],
+			[
+				"load",
+				"loadCalegRegion"
+			],
+			[
+				"par",
+				"parse"
+			],
+			[
+				"for",
+				"for\tfor (…) {…}"
+			],
+			[
+				"ret",
+				"return"
+			],
+			[
+				"al",
+				"allnews"
+			],
+			[
+				"fe",
+				"fetchNews"
+			],
+			[
+				"domN",
+				"domNews"
+			],
+			[
+				"new",
+				"newsRemaining"
+			],
+			[
+				"get",
+				"getItem"
+			],
+			[
+				"dom",
+				"domListArray"
+			],
+			[
+				"ti",
+				"title"
+			],
+			[
+				"getM",
+				"getMatchTitle"
+			],
+			[
+				"l",
+				"link"
+			],
+			[
+				"tit",
+				"titleBerita"
+			],
+			[
+				"res",
+				"resource"
+			],
+			[
+				"ho",
+				"holderNewsRasiyo"
+			],
+			[
+				"loca",
+				"localStorage"
+			],
+			[
+				"ge",
+				"gelar"
+			],
+			[
+				"bb",
+				"bdb\tborder-bottom"
+			],
+			[
+				"tt",
+				"tt:u\ttext-transform:uppercase"
+			],
+			[
+				"top",
+				"topleft"
+			],
+			[
+				"inser",
+				"insertId"
+			],
+			[
+				"getstat",
+				"getStatistikKecamatan"
+			],
+			[
+				"le",
+				"length"
+			],
+			[
+				"getSta",
+				"getStatistikAll"
+			],
+			[
+				"getListL",
+				"getListLaporanDetail"
+			],
+			[
+				"ap",
+				"api"
+			],
+			[
+				"isn",
+				"insertId"
+			],
+			[
+				"pro",
+				"provinsi"
+			],
+			[
+				"inse",
+				"insertId"
+			],
+			[
+				"ins",
+				"insertId"
+			],
+			[
+				"is",
+				"ismiskin"
+			],
+			[
+				"int",
+				"intensMakan"
+			],
+			[
+				"ba",
+				"bahanBakar"
+			],
+			[
+				"ada",
+				"adaBab"
+			],
+			[
+				"baha",
+				"bahanDinding"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 211.0,
+		"last_filter": "install",
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"remove pac",
+				"Package Control: Remove Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"sftp",
+				"SFTP: Setup Server…"
+			],
+			[
+				"install p",
+				"Package Control: Install Package"
+			],
+			[
+				"install paca",
+				"Package Control: Install Package"
+			],
+			[
+				"install pacak",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"install pac",
+				"Package Control: Install Package"
+			],
+			[
+				"deb",
+				"Snippet: debugger"
+			],
+			[
+				"install pack",
+				"Package Control: Install Package"
+			],
+			[
+				"colorsub",
+				"Colorsublime: Install Theme"
+			],
+			[
+				"color",
+				"Colorsublime: Install Theme"
+			],
+			[
+				"install packa",
+				"Package Control: Install Package"
+			],
+			[
+				"doc",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"indent",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"inst",
+				"LiveStyle: Install WebKit extension"
+			],
+			[
+				"install package",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Bookmarks: Clear All"
+			],
+			[
+				"Package Control: install",
+				"Package Control: Install Package"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"pac",
+				"Preferences: Package Control Settings – Default"
+			],
+			[
+				"package s",
+				"Package Syncing: Push Settings"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"ssahtm",
+				"Set Syntax: HTML"
+			],
+			[
+				"install pa",
+				"Package Control: Install Package"
+			],
+			[
+				"enable",
+				"SublimeLinter: Enable Debug Mode"
+			],
+			[
+				"toggle",
+				"Toggle Comment"
+			],
+			[
+				"add rep",
+				"Package Control: Add Repository"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"for",
+				"Format Code"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 493.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"clear",
+			"quit",
+			"exit",
+			"import urllib.request,os,sys; exec(\"if sys.version_info < (3,) or os.name != 'nt': raise OSError('This code is for Windows ST3 only!')\"); pr='Preferences.sublime-settings'; ip='ignored_packages'; n='Package Control'; s=sublime.load_settings(pr); ig=s.get(ip); ig.append(n); s.set(ip,ig); sublime.save_settings('Preferences.sublime-settings'); pf=n+'.sublime-package'; urllib.request.install_opener(urllib.request.build_opener(urllib.request.ProxyHandler())); by=urllib.request.urlopen('https://packagecontrol.io/'+pf.replace(' ','%20')).read(); open(os.path.join(sublime.installed_packages_path(),pf),'wb').write(by); ig.remove(n); s.set(ip,ig); sublime.save_settings(pr); print('Package Control: 3.0.0 upgrade successful!')",
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) "
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Volumes/DATA 1/_DEVEL/30 Days React/react-with-grunt-starter"
+	],
+	"file_history":
+	[
+		"/Volumes/DATA 1/_DEVEL/30 Days React/react-grunt/.babelrc",
+		"/Volumes/DATA 1/_DEVEL/30 Days React/react-grunt/Gruntfile.js",
+		"/Volumes/DATA 1/_DEVEL/30 Days React/react-grunt/src/css/sass/partial/_base.scss",
+		"/Volumes/DATA 1/_DEVEL/30 Days React/react-grunt/src/index.html",
+		"/Volumes/DATA 1/_DEVEL/30 Days React/react-grunt/src/js/dev/app.js",
+		"/Volumes/DATA 1/_DEVEL/30 Days React/react-grunt/src/css/sass/style.scss",
+		"/Volumes/DATA 1/_DEVEL/30 Days React/React With Data/app.js",
+		"/Volumes/DATA 1/_DEVEL/30 Days React/React First Component - With Simple Data/index.html",
+		"/Volumes/DATA 1/_DEVEL/30 Days React/ringkas-react/Gruntfile.js",
+		"/Volumes/DATA 1/_DEVEL/30 Days React/react-grunt/package.json",
+		"/Volumes/DATA 1/_DEVEL/30 Days React/react-grunt/.jshintrc",
+		"/Volumes/DATA 1/_DEVEL/30 Days React/react-grunt/src/css/sass/modules/_all.scss",
+		"/Volumes/DATA 1/_DEVEL/30 Days React/react-grunt/src/js/app.js",
+		"/Volumes/DATA 1/_DEVEL/30 Days React/react-grunt/src/css/style.css.map",
+		"/Volumes/DATA 1/_DEVEL/30 Days React/react-grunt/src/css/style.css",
+		"/Volumes/DATA 1/_DEVEL/30 Days React/react-grunt/src/js/build.js",
+		"/Volumes/DATA 1/_DEVEL/30 Days React/ringkas-react/dev/assets/css/style.css",
+		"/Volumes/DATA 1/_DEVEL/30 Days React/ringkas-react/dev/assets/css/partial/_typography.scss",
+		"/Volumes/DATA 1/_DEVEL/30 Days React/ringkas-react/package.json",
+		"/Volumes/DATA 1/_DEVEL/30 Days React/ringkas-react/dev/assets/js/app.js",
+		"/Volumes/DATA 1/_DEVEL/30 Days React/ringkas-react/dev/index.html",
+		"/Volumes/DATA 1/_DEVEL/30 Days React/ringkas-react/dev/assets/css/style.scss",
+		"/Volumes/DATA 1/_DEVEL/30 Days React/React With Data/index.html",
+		"/Volumes/DATA 1/_DEVEL/30 Days React/ringkas-react/dev/assets/js/modules/react.min.js",
+		"/Volumes/DATA 1/_DEVEL/30 Days React/ringkas-react/dev/assets/js/.jshintrc",
+		"/Volumes/DATA 1/_DEVEL/30 Days React/ringkas-react/.jshintrc",
+		"/Volumes/DATA 1/_DEVEL/30 Days React/ringkas-react/dev/index.php",
+		"/Volumes/DATA 1/_DEVEL/30 Days React/ringkas-react/prod/assets/js/script.js",
+		"/Volumes/DATA 1/_DEVEL/30 Days React/ringkas-react/prod/assets/css/style.css",
+		"/Volumes/DATA 1/_DEVEL/30 Days React/ringkas-react/dev/assets/css/partial/_base.scss",
+		"/Volumes/DATA 1/_DEVEL/30 Days React/ringkas-react/dev/js/app.js",
+		"/Volumes/DATA 1/xampp/htdocs/Mainan/Rangkumin/extension/Gruntfile.js",
+		"/Volumes/DATA 1/xampp/htdocs/Mainan/ci-pilkadapintar/public/Gruntfile.js",
+		"/Volumes/DATA 1/_DEVEL/30 Days React/ringkas-react/dev/css/style.scss",
+		"/Volumes/DATA 1/_DEVEL/30 Days React/ringkas-react/prod/index.php",
+		"/Volumes/DATA 1/_DEVEL/30 Days React/React 1/index.html",
+		"/Volumes/DATA 1/_DEVEL/30 Days React/React With Data/style.css",
+		"/Volumes/DATA 1/_DEVEL/30 Days React/ringkas-react/devel/sass/style.scss",
+		"/Volumes/DATA 1/xampp/htdocs/Mainan/ci-pilkadapintar/public/package.json",
+		"/Volumes/DATA 1/xampp/htdocs/Mainan/ci-pilkadapintar/public/css/scss/style.scss",
+		"/Volumes/DATA 1/_DEVEL/30 Days React/ringkas-react/devel/sass/modules/_all.scss",
+		"/Volumes/DATA 1/_DEVEL/30 Days React/ringkas-react/devel/sass/partial/_variable.scss",
+		"/Volumes/DATA 1/_DEVEL/30 Days React/ringkas-react/devel/sass/partial/_typography.scss",
+		"/Volumes/DATA 1/_DEVEL/30 Days React/ringkas-react/devel/sass/partial/_base.scss",
+		"/Volumes/DATA 1/xampp/htdocs/Mainan/ci-pilkadapintar/public/css/scss/modules/_all.scss",
+		"/Users/claudiofrs/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/claudiofrs/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/claudiofrs/Library/Application Support/Sublime Text 3/Packages/User/Package Control.sublime-settings",
+		"/Users/claudiofrs/Downloads/modified_css_profil.sass",
+		"/private/var/folders/z1/cvhr97vd0k3ckkzcw_ylj4qm0000gn/T/fz3temp-2/index.php",
+		"/E/My Files/DESIGN/_TIAID-DESIGN/Related Article/related/scss/components/_related-post.scss",
+		"/E/My Files/DESIGN/_TIAID-DESIGN/Related Article/related/scss/components/_related-article.scss",
+		"/E/My Files/DESIGN/_TIAID-DESIGN/Base CSS Bootstrap/_tiaid.scss",
+		"/E/My Files/DESIGN/_TIAID-DESIGN/Related Article/related/pages/moreticle.html",
+		"/E/My Files/DESIGN/_TIAID-DESIGN/Related Article/related/pages/hotupdate.html",
+		"/E/My Files/DESIGN/_TIAID-DESIGN/Related Article/related/pages/berita7.html",
+		"/E/My Files/DESIGN/_TIAID-DESIGN/Related Article/related/pages/hotmobile.html",
+		"/E/My Files/DESIGN/_TIAID-DESIGN/Related Article/related/pages/hotgadget.html",
+		"/E/My Files/DESIGN/_TIAID-DESIGN/Related Article/related/pages/berita9.html",
+		"/E/My Files/DESIGN/_TIAID-DESIGN/Related Article/related/pages/berita8.html",
+		"/E/My Files/DESIGN/_TIAID-DESIGN/Related Article/related/pages/berita6.html",
+		"/E/My Files/DESIGN/_TIAID-DESIGN/Related Article/related/pages/berita5.html",
+		"/E/My Files/DESIGN/_TIAID-DESIGN/Related Article/related/pages/berita4.html",
+		"/E/My Files/DESIGN/_TIAID-DESIGN/Related Article/related/pages/berita3.html",
+		"/E/My Files/DESIGN/_TIAID-DESIGN/Related Article/related/pages/berita2.html",
+		"/E/My Files/DESIGN/_TIAID-DESIGN/Related Article/related/pages/berita10.html",
+		"/E/My Files/DESIGN/_TIAID-DESIGN/Related Article/related/pages.js",
+		"/E/My Files/DESIGN/_TIAID-DESIGN/Related Article/related/scss/main.scss",
+		"/E/My Files/DESIGN/_TIAID-DESIGN/Related Article/related/scss/components/_navbar-dropdowns.scss",
+		"/E/My Files/DESIGN/_TIAID-DESIGN/Related Article/related/scss/components/_mini-dropdowns.scss",
+		"/E/My Files/DESIGN/_TIAID-DESIGN/Related Article/related/pages/navticle1.html",
+		"/E/My Files/DESIGN/_TIAID-DESIGN/Related Article/related/pages/index.html",
+		"/E/My Files/DESIGN/_TIAID-DESIGN/Related Article/related/pages/scriptBottom.html",
+		"/E/My Files/DESIGN/_TIAID-DESIGN/Related Article/related/pages/related1.html",
+		"/E/My Files/DESIGN/_TIAID-DESIGN/Related Article/related/pages/berita1.html",
+		"/E/My Files/DESIGN/_TIAID-DESIGN/Related Article/related/pages/navticle9.html",
+		"/E/My Files/DESIGN/_TIAID-DESIGN/Related Article/related/pages/navticle8.html",
+		"/E/My Files/DESIGN/_TIAID-DESIGN/Related Article/related/pages/navticle7.html",
+		"/E/My Files/DESIGN/_TIAID-DESIGN/Related Article/related/pages/navticle6.html",
+		"/E/My Files/DESIGN/_TIAID-DESIGN/Related Article/related/pages/navticle10.html",
+		"/E/My Files/DESIGN/_TIAID-DESIGN/Related Article/related/pages/navticle2.html",
+		"/E/My Files/DESIGN/_TIAID-DESIGN/Related Article/related/pages/navticle3.html",
+		"/E/My Files/DESIGN/_TIAID-DESIGN/Related Article/related/pages/navticle4.html",
+		"/E/My Files/DESIGN/_TIAID-DESIGN/Related Article/related/pages/navticle5.html",
+		"/E/My Files/DESIGN/_TIAID-DESIGN/Related Article/related/bootstrap.js",
+		"/E/My Files/DESIGN/_TIAID-DESIGN/Related Article/related/scripts/bootstrap.config.full.js",
+		"/E/My Files/DESIGN/_TIAID-DESIGN/Related Article/related/scss/utils/_variables.scss",
+		"/E/My Files/DESIGN/_TIAID-DESIGN/Related Article/related/pages/_template.html",
+		"/E/My Files/DESIGN/_TIAID-DESIGN/Related Article/related/scss/frontend.scss",
+		"/E/My Files/DESIGN/_TIAID-DESIGN/Related Article/related/gulpfile.js",
+		"/E/My Files/DESIGN/_TIAID-DESIGN/Related Article/related/package.json",
+		"/E/My Files/DESIGN/_TIAID-DESIGN/Related Article/related/scripts/webpack.config.base.js",
+		"/E/My Files/DESIGN/_TIAID-DESIGN/Related Article/related/grunt-project/scss/main.scss",
+		"/E/My Files/DESIGN/_TIAID-DESIGN/Related Article/related/grunt-project/scss/components/_input-groups.scss",
+		"/E/My Files/DESIGN/_TIAID-DESIGN/Related Article/related/grunt-project/scss/components/_modals.scss",
+		"/E/My Files/DESIGN/_TIAID-DESIGN/Related Article/related/grunt-project/scss/vendors/_select2.scss",
+		"/E/My Files/DESIGN/_TIAID-DESIGN/Related Article/related/grunt-project/scss/utils/_mixins.scss",
+		"/E/My Files/DESIGN/_TIAID-DESIGN/Related Article/related/grunt-project/pages/berita1.html",
+		"/E/My Files/DESIGN/_TIAID-DESIGN/Related Article/related/grunt-project/Gruntfile.js",
+		"/E/My Files/DESIGN/_TIAID-DESIGN/Related Article/related/grunt-project/package.json",
+		"/E/My Files/DESIGN/_TIAID-DESIGN/Related Article/related/grunt-project/scss/utils/_functions.scss",
+		"/E/My Files/DESIGN/_TIAID-DESIGN/Related Article/related/grunt-project/scss/utils/_helpers.scss",
+		"/E/My Files/DESIGN/_TIAID-DESIGN/Related Article/related/grunt-project/scss/utils/_placeholders.scss",
+		"/E/My Files/DESIGN/_TIAID-DESIGN/Related Article/related/grunt-project/scss/utils/_variables.scss",
+		"/E/My Files/DESIGN/_TIAID-DESIGN/Related Article/related/grunt-project/scss/frontend.scss",
+		"/E/My Files/DESIGN/_TIAID-DESIGN/Related Article/related/grunt-project/scss/_override.scss",
+		"/E/My Files/DESIGN/_TIAID-DESIGN/Related Article/related/grunt-project/node_modules/font-awesome/scss/_variables.scss",
+		"/D/xampp/htdocs/Mainan/ub-bootstrap/css/dev/style.scss",
+		"/D/xampp/htdocs/Mainan/ub-bootstrap/package.json",
+		"/E/My Files/DESIGN/_TIAID-DESIGN/Related Article/related/scripts/webpack.config.prd.js",
+		"/E/My Files/DESIGN/_TIAID-DESIGN/Related Article/tia-id-bootstrap-theme-master/pages.js",
+		"/E/My Files/DESIGN/_TIAID-DESIGN/Related Article/related/.scss-lint.yml",
+		"/E/My Files/DESIGN/_TIAID-DESIGN/Related Article/related/.jshintrc",
+		"/E/My Files/DESIGN/_TIAID-DESIGN/Related Article/related/pages/related5.html",
+		"/E/My Files/DESIGN/_TIAID-DESIGN/Related Article/related/pages/related6.html",
+		"/E/My Files/DESIGN/_TIAID-DESIGN/Related Article/related/pages/related8.html",
+		"/E/My Files/DESIGN/_TIAID-DESIGN/Related Article/related/pages/related9.html",
+		"/E/My Files/DESIGN/_TIAID-DESIGN/Related Article/related/pages/related3.html",
+		"/E/My Files/DESIGN/_TIAID-DESIGN/Related Article/related/result.txt",
+		"/E/My Files/DESIGN/_TIAID-DESIGN/Related Article/related/scripts/bootstrap.config.js",
+		"/E/My Files/DESIGN/_TIAID-DESIGN/Related Article/related/README.md",
+		"/E/My Files/DESIGN/_TIAID-DESIGN/Related Article/related/pages/people.html",
+		"/E/My Files/DESIGN/_TIAID-DESIGN/Related Article/related/pages/related2.html",
+		"/E/My Files/DESIGN/_TIAID-DESIGN/Related Article/related/pages/_index.html",
+		"/E/My Files/DESIGN/_TIAID-DESIGN/Related Article/related/scss/utils/_mixins.scss",
+		"/E/My Files/DESIGN/_TIAID-DESIGN/Related Article/related/scss/components/_buttons.scss",
+		"/E/My Files/DESIGN/_TIAID-DESIGN/Related Article/related/scss/components/_team-photo.scss",
+		"/E/My Files/DESIGN/_TIAID-DESIGN/Related Article/related/scss/components/_destiny-picker.scss"
+	],
+	"find":
+	{
+		"height": 25.0
+	},
+	"find_in_files":
+	{
+		"height": 92.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"jshint",
+			"jshint:",
+			"scripts",
+			"style",
+			"boilerplate",
+			"watch:",
+			"watch",
+			"app",
+			"sass",
+			"connect",
+			"webpack",
+			"connect",
+			"require",
+			"https://cdnjs.cloudflare.com/ajax/libs/react/15.3.1/react.min.js",
+			"farah",
+			"up",
+			"heading-related-bottom",
+			"bottom",
+			"list-populer-heading",
+			"list-",
+			"list-group-item",
+			"list-group-",
+			"first",
+			"heading-related-bottom",
+			"background-color: rgba",
+			"show",
+			"related-bottom",
+			"--prev",
+			"hot",
+			"filed",
+			"author-bo",
+			"endofartic",
+			"btn-float",
+			"btn-flofat",
+			"button",
+			"hotmore",
+			"hot",
+			"class=\"author-box",
+			"navticle",
+			"media",
+			"list-group-item-head",
+			"<li class=\"clearfix\">",
+			"img-container",
+			"margin-",
+			"margin-img",
+			"media-img-",
+			"--next",
+			"media-img-container",
+			"media-img",
+			"data-holder-rendered=\"true\"",
+			"data-src=\"holder.js/64x64\"",
+			"</h1>",
+			"class",
+			" \n",
+			"exports",
+			"fse",
+			"flexible",
+			"112",
+			"box-shad",
+			"box-shadow",
+			"box-shad",
+			"box-shadow",
+			"scss-li",
+			"build",
+			"prod",
+			"9090",
+			"strong",
+			"Indah Pertiwi",
+			"strong",
+			"rel=\"auth",
+			"rel=\"author",
+			"strong",
+			"Indah Pertiwi",
+			"strong",
+			"Indah Pertiwi",
+			"author",
+			"indah",
+			"berikan",
+			"comment",
+			"oleh",
+			"strong",
+			"container",
+			"related3",
+			"related1",
+			"build",
+			"berita6",
+			"pb",
+			"#",
+			"strong",
+			"<strong>",
+			"facebook",
+			"h1",
+			"strong",
+			"w3-include",
+			"related1",
+			"related",
+			"html",
+			"vine",
+			"indah pertiwi",
+			"<article",
+			"berita1",
+			"berita",
+			"green",
+			"#2",
+			"include",
+			"teknologi",
+			"#777",
+			"<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n  <meta charset=\"UTF-8\">\n  <meta name=\"viewport\" content=\"width=device-width\">\n  <title>Bootstrap Theme &ndash; Template</title>\n</head>\n<body>\n  <nav class=\"navbar navbar-default navbar-fixed-top navbar-default--scrolled\"><div class=\"container\"><div class=\"navbar-header\"><button type=\"button\" class=\"navbar-toggle collapsed\" data-toggle=\"collapse\" data-target=\"#main-menu\" aria-expanded=\"false\"><span class=\"sr-only\">Toggle navigation</span><i class=\"fa fa-navicon\"></i></button><a target=\"_self\" class=\"navbar-brand\" data-event-category=\"Navigation\" data-event-action=\"Click\" data-event-label=\"Logo (header)\" href=\"/\">Tech in Asia</a><form class=\"navbar-form mobile-search-form\"><div class=\"input-group\"><span class=\"input-group-addon\"><i class=\"fa fa-search\"></i></span><input type=\"text\" class=\"form-control\" placeholder=\"Search Articles\" size=\"15\" style=\"padding-left: 0px;\"></div></form></div><div class=\"collapse navbar-collapse\" id=\"main-menu\" aria-expanded=\"false\"><div><div class=\"nav navbar-nav navbar-right hidden-xs hidden-sm\"><a class=\"btn btn-primary btn-sm navbar-btn WriteButton\" href=\"/create/article\"><i class=\"fa fa-pencil\"></i><!-- react-text: 293 --> Write<!-- /react-text --></a></div><ul class=\"profile-nav\"><li class=\"dropdown\"><a aria-expanded=\"false\" class=\"dropdown-toggle\" data-hover=\"dropdown\" data-toggle=\"dropdown\" href=\"#\" role=\"button\"><span class=\"user-nav__profile\"><img src=\"https://d2wvmuitzlwqfv.cloudfront.net/wp-content/themes/techinasia/img/default-user.jpg\" alt=\"Default User | Photo\"></span><span class=\"caret\"></span></a><p class=\"user-nav__name\">Claudio Fresta</p><ul class=\"dropdown-menu dropdown-menu-right\" role=\"menu\"><li><a href=\"https://id.techinasia.com/author/claudiofresta\">Profile</a></li><li><a href=\"/profile/edit\">Edit Profile</a></li><li><a href=\"/profile/settings\">Account Settings</a></li><li><a href=\"/\">Log out</a></li></ul></li></ul></div><ul class=\"nav navbar-nav navbar-left main-nav\"><li class=\"dropdown\"><a class=\"dropdown-toggle\" data-hover=\"dropdown\" role=\"button\" aria-expanded=\"false\" href=\"/\">Startup</a><ul class=\"dropdown-menu\" role=\"menu\"><li><a href=\"/\">Berita Utama</a></li><li><a href=\"/category/new-startup\">Startup Terbaru</a></li><li><a href=\"/category/update\">Update Startup</a></li><li><a href=\"/category/entrepreneur\">Entrepreneurship</a></li><li><a href=\"/category/mobile\">Mobile</a></li><li><a href=\"/category/gadget\">Gadget</a></li><li><a href=\"/category/studentpreneur\">Studentpreneur</a></li><li><a href=\"/category/daftar\">Artikel Eksklusif</a></li></ul></li><li class=\"dropdown\"><a class=\"dropdown-toggle\" data-hover=\"dropdown\" role=\"button\" aria-expanded=\"false\" href=\"/games\">Games</a><div class=\"dropdown-menu dropdown-menu__row\"><div class=\"dropdown-menu__col\"><a class=\"dropdown-menu__heading collapsed\" data-toggle=\"collapse\" data-target=\"#kategori-utama\" role=\"button\" href=\"#\">Kategori Utama</a><ul id=\"kategori-utama\" class=\"dropdown-menu dropdown-sub-menu\" role=\"menu\"><li><a href=\"/games\">Berita Utama</a></li><li><a href=\"/category/android\">Android</a></li><li><a href=\"/category/pc\">PC</a></li><li><a href=\"/category/playstation-2\">Playstation</a></li><li><a href=\"/category/featured-games\">Artikel Eksklusif</a></li></ul></div><div class=\"dropdown-menu__col\"><a class=\"dropdown-menu__heading collapsed\" data-toggle=\"collapse\" data-target=\"#wajib-punya\" role=\"button\" href=\"#\">Wajib Punya</a><ul id=\"wajib-punya\" class=\"dropdown-menu\" role=\"menu\"><li><a href=\"/game-gratis-android-hari-ini\">Game Gratis</a></li><li><a href=\"/kumpulan-game-android-terbaik-versi-gamesaku\">Game Terbaik</a></li></ul></div><div class=\"dropdown-menu__col\"><a class=\"dropdown-menu__heading collapsed\" data-toggle=\"collapse\" data-target=\"#platform-lainnya\" role=\"button\" href=\"#\">Platform Lainnya</a><ul id=\"platform-lainnya\" class=\"dropdown-menu\" role=\"menu\"><li><a href=\"/category/ios\">iOS</a></li><li><a href=\"/category/nintendo\">Nintendo</a></li><li><a href=\"/category/linux\">Linux</a></li><li><a href=\"/category/mac\">Mac</a></li><li><a href=\"/category/xbox\">Xbox</a></li><li><a href=\"/category/hardware\">Hardware</a></li><li><a href=\"/category/others\">Topik Lainnya</a></li></ul></div></div></li><li class=\"dropdown\"><a href=\"#\" class=\"dropdown-toggle\" data-hover=\"dropdown\" data-toggle=\"dropdown\" role=\"button\" aria-expanded=\"false\">Events</a><ul class=\"dropdown-menu\" role=\"menu\"><li><a href=\"http://events.techinasia.com/bangalore/\" target=\"techinasia-new-window\">Tech in Asia Bangalore 2016</a></li><li><a href=\"http://events.techinasia.com/tokyo/\" target=\"techinasia-new-window\">Tech in Asia Tokyo 2016</a></li><li><a href=\"http://events.techinasia.com/jakarta/\" target=\"techinasia-new-window\">Tech in Asia Jakarta 2016</a></li><li><a href=\"/kalender-event-teknologi-startup-di-indonesia\">Kalender Startup Indonesia</a></li></ul></li><li class=\"dropdown\"><a href=\"#\" class=\"dropdown-toggle\" data-hover=\"dropdown\" data-toggle=\"dropdown\" role=\"button\" aria-expanded=\"false\">About</a><ul class=\"dropdown-menu\" role=\"menu\"><li><a href=\"/tentang-kami\">Tentang Kami</a></li><li><a href=\"/pernyataan-etika\">Etika</a></li><li><a href=\"/join\">Karir</a></li><li><a href=\"/tentang-kami#hubungi-kami\">Hubungi Kami</a></li></ul></li></ul><form class=\"navbar-form navbar-left hidden-xs hidden-sm\"><div class=\"input-group\"><span class=\"input-group-addon\"><i class=\"fa fa-search\"></i></span><input type=\"text\" class=\"form-control\" placeholder=\"Search Articles\" size=\"15\" style=\"padding-left: 0px;\"></div></form></div></div>\n  </nav>\n\n\n  <div class=\"container\">\n    <!-- START Page Content Goes In Here -->\n\n    <main class=\"post-container\">\n      <article class=\"post\" id=\"content-201137\">\n       <div class=\"pb\">\n        <div class=\"progressbar\" style=\"width: 0%;\"></div>\n        <a href=\"#\" data-toggle=\"tooltip\" class=\"next-article\"></a>\n      </div>\n      <div class=\"container\">\n        <h1 class=\"post__heading\">Facebook Meraup Pendapatan Rp91 Triliun di Kuartal Tiga 2016</h1>\n        <div class=\"post__comments-link-container\">\n         <a href=\"#comments-201137\" class=\"post__comments-link\" data-event-category=\"Navigation\" data-event-action=\"Click\" data-event-label=\"Comments (article)\" data-event-target=\"201137\" data-event-target-type=\"post\">\n          <span class=\"post__comments-number\">0</span><!-- react-text: 3221 -->Comments<!-- /react-text -->\n        </a>\n        <a target=\"_blank\" class=\"post__edit-btn\" href=\"/core/wp-admin/post.php?action=edit&amp;post=201137\">\n          <i class=\"fa fa-wrench\"></i><!-- react-text: 3224 --> Edit<!-- /react-text -->\n        </a>\n      </div>\n      <ul class=\"post-meta\">\n       <li class=\"post-meta__author-image\"><img src=\"https://d26bwjyd9l0e3m.cloudfront.net/wp-content/authors/40791.jpg?v=1475189823\" alt=\"Indah\"></li>\n       <li><a rel=\"author\" href=\"https://id.techinasia.com/author/indah-pertiwi\">Indah Pertiwi</a><time class=\"post-meta__date\" datetime=\"2016-11-03T08:00:27\">3:00 PM on Nov 3, 2016</time></li>\n       <li class=\"post-meta__sharing\">\n        <ul class=\"sharing-widget list-inline\">\n         <li>\n          <ul class=\"sharing-widget list-inline\">\n           <li>\n            <div class=\"sharing-widget__count\">0</div>\n          </li>\n          <li><a id=\"201137\" title=\"Facebook Meraup Pendapatan Rp91 Triliun di Kuartal Tiga 2016\" data-social-network=\"Facebook\" data-social-action=\"share\" data-social-target=\"https://id.techinasia.com/facebook-raup-pendapatan-q3-2016\" class=\"sharing-widget__link\" href=\"https://www.facebook.com/dialog/share?app_id=638918602919305&amp;display=popup&amp;href=https://id.techinasia.com/facebook-raup-pendapatan-q3-2016&amp;title=Facebook%20Meraup%20Pendapatan%20Rp91%20Triliun%20di%20Kuartal%20Tiga%202016\"><span class=\"sharing-widget__btn bg-facebook\"><i class=\"fa fa-facebook\"></i></span></a></li>\n          <li><a id=\"201137\" title=\"Facebook Meraup Pendapatan Rp91 Triliun di Kuartal Tiga 2016\" data-social-action=\"share\" data-social-target=\"https://id.techinasia.com/facebook-raup-pendapatan-q3-2016\" class=\"sharing-widget__link\"><span class=\"sharing-widget__btn bg-twitter\"><i class=\"fa fa-twitter\"></i></span></a></li>\n          <li><a id=\"201137\" title=\"Facebook Meraup Pendapatan Rp91 Triliun di Kuartal Tiga 2016\" data-social-action=\"share\" data-social-target=\"https://id.techinasia.com/facebook-raup-pendapatan-q3-2016\" class=\"sharing-widget__link\" href=\"https://plus.google.com/share?url=https://id.techinasia.com/facebook-raup-pendapatan-q3-2016\"><span class=\"sharing-widget__btn btn-google\"><i class=\"fa fa-google\"></i></span></a></li>\n          <li>\n            <a class=\"sharing-widget__link\" data-toggle=\"dropdown\" aria-expanded=\"false\" role=\"link\"><span class=\"sharing-widget__btn btn-primary\"><i class=\"fa fa-share-alt\"></i></span></a>\n            <ul class=\"sharing-widget__dropdown\" role=\"menu\">\n             <li><a id=\"201137\" title=\"Facebook Meraup Pendapatan Rp91 Triliun di Kuartal Tiga 2016\" data-social-network=\"LinkedIn\" data-social-action=\"share\" data-social-target=\"https://id.techinasia.com/facebook-raup-pendapatan-q3-2016\" class=\"sharing-widget__link\" href=\"https://www.linkedin.com/shareArticle?mini=true&amp;url=https://id.techinasia.com/facebook-raup-pendapatan-q3-2016&amp;title=Facebook%20Meraup%20Pendapatan%20Rp91%20Triliun%20di%20Kuartal%20Tiga%202016&amp;summary=\"><span class=\"sharing-widget__linkedin\">LinkedIn</span></a></li>\n             <li><a id=\"201137\" title=\"Facebook Meraup Pendapatan Rp91 Triliun di Kuartal Tiga 2016\" data-social-action=\"share\" data-social-target=\"https://id.techinasia.com/facebook-raup-pendapatan-q3-2016\" class=\"sharing-widget__link\" href=\"mailto:?subject=Share Artikel dari Tech in Asia&amp;body=Facebook%20Meraup%20Pendapatan%20Rp91%20Triliun%20di%20Kuartal%20Tiga%202016%20%7C%20https%3A%2F%2Fid.techinasia.com%2Ffacebook-raup-pendapatan-q3-2016\"><span class=\"sharing-widget__email\">Email</span></a></li>\n           </ul>\n         </li>\n       </ul>\n     </li>\n   </ul>\n </li>\n</ul>\n<div class=\"post__content\">\n <div style=\"margin: 10px 0px; text-align: center;\"><img class=\"attachment-full wp-post-image\" src=\"https://d26bwjyd9l0e3m.cloudfront.net/wp-content/uploads/2016/08/Facebook-Bisnis-Uang-Ilustrasi.jpg\" alt=\"Facebook Bisnis Uang | Ilustrasi\" style=\"width: 100%; height: auto;\"></div>\n <div class=\"clearfix\">\n  <div>\n   <p><a href=\"https://id.techinasia.com/tag/facebook\">Facebook</a>&nbsp;mengumumkan pihaknya memperoleh pendapatan yang signifikan di kuartal ketiga tahun 2016 ini.&nbsp;Dalam kurun tiga bulan terakhir ini, Facebook memperoleh pendapatan sebesar US$7,01 miliar (sekitar Rp91 triliun)&nbsp;dan keuntungan sebanyak US$2,38 miliar (sekitar Rp31 triliun).</p>\n   <p>Dalam <a href=\"https://s21.q4cdn.com/399680738/files/doc_financials/2016/Q3/3.-Facebook-Reports-Third-Quarter-2016-Results.pdf\" target=\"_blank\">rilisnya</a>, <em>mobile advertising</em> menyumbang porsi terbesar dalam pencapaian Facebook kali ini— sebanyak 84 persen pendapatan iklan datang dari sektor ini<em>. </em>Jumlah pengguna aktif bulanan pun bertumbuh sebanyak 1,66 miliar. Jumlah ini meningkat&nbsp;dua puluh persen dari tahun ke tahun. Pencapaian tersebut didapatkan dari&nbsp;1.055 miliar pengguna yang menggunakan perangkat&nbsp;<em>mobile</em>.</p>\n   <p>Sementara itu, rata-rata sekitar 1,09 miliar orang mengakses Facebook melalui perangkat&nbsp;<em>mobile</em>&nbsp;setiap harinya. Jumlah total pengguna aktif bulanannya pun meningkat sekitar 1.79 miliar pengguna. Jumlah ini tumbuh enam belas persen dibanding periode yang sama tahun lalu.</p>\n   <p><img class=\"aligncenter wp-image-201180 size-full\" src=\"https://d26bwjyd9l0e3m.cloudfront.net/wp-content/uploads/2016/11/Revenue-Facebook.png\" alt=\"pendapatan facebook Q3 2016 | screenshot\" width=\"680\" height=\"433\"></p>\n   <p>Terkait pencapaian ini, CEO Facebook, Mark Zuckerberg mengungkapkan, ke depannya media sosial ini akan memprioritaskan video dalam aplikasinya. Ia menambahkan, kamera bakal menjadi alat utama yang digunakan masyarakat untuk berbagi.</p>\n   <p>Zuckerberg menyebutkan bahwa <a href=\"https://id.techinasia.com/tag/Facebook-Live\">Facebook Live</a> mengalami pertumbuhan empat kali lipat sejak bulan Mei lalu. Ia mengungkapkan, orang-orang di seluruh dunia melakukan aktivitas penyiaran langsung dari Facebook.</p>\n   <p>Sementara itu, <a href=\"https://id.techinasia.com/tag/instagram-stories\">Instagram Stories</a> yang memadukan aktivitas fotografi dan video juga menggaet banyak pengguna. Saat ini, terdapat lebih dari 100 juta pengguna aktif setiap harinya. Di sisi lain, Facebook juga sedang mengetes fitur kamera yang terlihat menyerupai fitur yang dimiliki <a href=\"https://id.techinasia.com/facebook-membuat-messenger-day\">Snapchat</a>.</p>\n\n   <span class=\"col-xs-12 col-md-12 related-in-content-outer\">\n     <div class=\"related-in-content col-xs-12 col-md-6\">\n       <div class=\"media\">\n         <div class=\"media-left\">\n          <a href=\"#\">\n            <div class=\"related-in-content-thumb\"><img src=\"https://d26bwjyd9l0e3m.cloudfront.net/wp-content/uploads/2016/10/Vine-Ilustrasi.jpg\" alt=\"gambar\"></div>\n          </a>\n        </div>\n        <div class=\"media-body\">\n          <small class=\"media-heading\">Artikel Terkait</small><h4 class=\"media-heading heading-in-content-related\"><a href=\"#\">Twitter Kurangi Pengeluaran dengan Tutup Vine dan Pecat 350 Karyawan</a></h4></div>\n        </div></div>\n      </span>\n\n      <p>Zuckerberg bakal menggenjot pertumbuhan aplikasi Facebook dalam beberapa tahun ke depan melalui berbagai peningkatan, seperti&nbsp;pengalaman pengguna, interaksi organik antara pengguna dengan bisnis, serta membuka akses bagi pebisnis untuk menjangkau lebih banyak orang.</p>\n      <p>Ia juga sempat menyinggung soal penggunaan kecerdasan buatan atau&nbsp;<em>artificial intelligence </em>(AI)<em>&nbsp;</em>untuk Facebook. Diakuinya, AI mampu meningkatkan pengalaman pengguna, seperti menyaring &nbsp;isu propaganda. Meski terlalu dini membahas teknologi ini, Zuckerberg berharap AI dapat segera diaplikasikan untuk meningkatkan kualitas News Feed di Facebook secara umum.</p>\n      <p><strong>Sumber</strong>:&nbsp;<em><a href=\"https://www.engadget.com/2016/11/02/facebook-q3-2016/\" target=\"_blank\">Engadget</a></em></p>\n      <p><em>(Diedit oleh&nbsp;<a href=\"https://id.techinasia.com/author/septa-mellina\">Septa Mellina</a>)</em></p>\n    </div>\n  </div>\n  <!-- react-text: 3264 --><!-- /react-text --><!-- react-text: 3265 --><!-- /react-text -->\n  <div class=\"author-box\">\n    <h3 class=\"author-box__heading h2\">\n     <!-- react-text: 3268 -->About <!-- /react-text --><!-- react-text: 3269 -->Indah<!-- /react-text -->\n   </h3>\n   <div class=\"author-box__description\">Penikmat senja yang berkeinginan menjadi philanthropist. Bisa dihubungi lewat indahpertiwi@techinasia atau twitter @iindahpertiwii</div>\n   <!-- react-text: 3271 --><!-- /react-text -->\n </div>\n</div>\n<ul class=\"post-meta clearfix\">\n <li class=\"post-meta__cats\">\n  <strong>Filed under:</strong><!-- react-text: 3275 --> <!-- /react-text --><a href=\"/category/media-sosial\">Media Sosial</a>\n</li>\n<li class=\"post-meta__sharing\">\n  <ul class=\"sharing-widget list-inline\">\n   <li>\n    <ul class=\"sharing-widget list-inline\">\n     <li>\n      <div class=\"sharing-widget__count\">0</div>\n    </li>\n    <li><a id=\"201137\" title=\"Facebook Meraup Pendapatan Rp91 Triliun di Kuartal Tiga 2016\" data-social-network=\"Facebook\" data-social-action=\"share\" data-social-target=\"https://id.techinasia.com/facebook-raup-pendapatan-q3-2016\" class=\"sharing-widget__link\" href=\"https://www.facebook.com/dialog/share?app_id=638918602919305&amp;display=popup&amp;href=https://id.techinasia.com/facebook-raup-pendapatan-q3-2016&amp;title=Facebook%20Meraup%20Pendapatan%20Rp91%20Triliun%20di%20Kuartal%20Tiga%202016\"><span class=\"sharing-widget__btn bg-facebook\"><i class=\"fa fa-facebook\"></i></span></a></li>\n    <li><a id=\"201137\" title=\"Facebook Meraup Pendapatan Rp91 Triliun di Kuartal Tiga 2016\" data-social-action=\"share\" data-social-target=\"https://id.techinasia.com/facebook-raup-pendapatan-q3-2016\" class=\"sharing-widget__link\"><span class=\"sharing-widget__btn bg-twitter\"><i class=\"fa fa-twitter\"></i></span></a></li>\n    <li><a id=\"201137\" title=\"Facebook Meraup Pendapatan Rp91 Triliun di Kuartal Tiga 2016\" data-social-action=\"share\" data-social-target=\"https://id.techinasia.com/facebook-raup-pendapatan-q3-2016\" class=\"sharing-widget__link\" href=\"https://plus.google.com/share?url=https://id.techinasia.com/facebook-raup-pendapatan-q3-2016\"><span class=\"sharing-widget__btn btn-google\"><i class=\"fa fa-google\"></i></span></a></li>\n    <li>\n      <a class=\"sharing-widget__link\" data-toggle=\"dropdown\" aria-expanded=\"false\" role=\"link\"><span class=\"sharing-widget__btn btn-primary\"><i class=\"fa fa-share-alt\"></i></span></a>\n      <ul class=\"sharing-widget__dropdown\" role=\"menu\">\n       <li><a id=\"201137\" title=\"Facebook Meraup Pendapatan Rp91 Triliun di Kuartal Tiga 2016\" data-social-network=\"LinkedIn\" data-social-action=\"share\" data-social-target=\"https://id.techinasia.com/facebook-raup-pendapatan-q3-2016\" class=\"sharing-widget__link\" href=\"https://www.linkedin.com/shareArticle?mini=true&amp;url=https://id.techinasia.com/facebook-raup-pendapatan-q3-2016&amp;title=Facebook%20Meraup%20Pendapatan%20Rp91%20Triliun%20di%20Kuartal%20Tiga%202016&amp;summary=\"><span class=\"sharing-widget__linkedin\">LinkedIn</span></a></li>\n       <li><a id=\"201137\" title=\"Facebook Meraup Pendapatan Rp91 Triliun di Kuartal Tiga 2016\" data-social-action=\"share\" data-social-target=\"https://id.techinasia.com/facebook-raup-pendapatan-q3-2016\" class=\"sharing-widget__link\" href=\"mailto:?subject=Share Artikel dari Tech in Asia&amp;body=Facebook%20Meraup%20Pendapatan%20Rp91%20Triliun%20di%20Kuartal%20Tiga%202016%20%7C%20https%3A%2F%2Fid.techinasia.com%2Ffacebook-raup-pendapatan-q3-2016\"><span class=\"sharing-widget__email\">Email</span></a></li>\n     </ul>\n   </li>\n </ul>\n</li>\n</ul>\n</li>\n</ul>\n</div>\n<div class=\"col-xs-12 hidden-md hidden-lg clearfix\" style=\"display: flex;\">\n\n  <div class=\"col-xs-6 article-prev\">\n    <div class=\"article-nav article-nav--prev\">\n     <span class=\"article-nav__small-heading\"><i class=\"fa fa-angle-double-left\"></i> Sebelumnya</span>\n     <div class=\"article-nav__inner\">\n       <div class=\"media\">\n        <div class=\"media-left\">\n          <a href=\"#\">\n            <img class=\"media-object\" data-src=\"holder.js/64x64\" alt=\"64x64\" style=\"width: 64px; height: 64px;\" src=\"data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiIHN0YW5kYWxvbmU9InllcyI/PjxzdmcgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB3aWR0aD0iNjQiIGhlaWdodD0iNjQiIHZpZXdCb3g9IjAgMCA2NCA2NCIgcHJlc2VydmVBc3BlY3RSYXRpbz0ibm9uZSI+PCEtLQpTb3VyY2UgVVJMOiBob2xkZXIuanMvNjR4NjQKQ3JlYXRlZCB3aXRoIEhvbGRlci5qcyAyLjYuMC4KTGVhcm4gbW9yZSBhdCBodHRwOi8vaG9sZGVyanMuY29tCihjKSAyMDEyLTIwMTUgSXZhbiBNYWxvcGluc2t5IC0gaHR0cDovL2ltc2t5LmNvCi0tPjxkZWZzPjxzdHlsZSB0eXBlPSJ0ZXh0L2NzcyI+PCFbQ0RBVEFbI2hvbGRlcl8xNTBhODMyNmRmNCB0ZXh0IHsgZmlsbDojQUFBQUFBO2ZvbnQtd2VpZ2h0OmJvbGQ7Zm9udC1mYW1pbHk6QXJpYWwsIEhlbHZldGljYSwgT3BlbiBTYW5zLCBzYW5zLXNlcmlmLCBtb25vc3BhY2U7Zm9udC1zaXplOjEwcHQgfSBdXT48L3N0eWxlPjwvZGVmcz48ZyBpZD0iaG9sZGVyXzE1MGE4MzI2ZGY0Ij48cmVjdCB3aWR0aD0iNjQiIGhlaWdodD0iNjQiIGZpbGw9IiNFRUVFRUUiLz48Zz48dGV4dCB4PSIxMy40Njg3NSIgeT0iMzYuNSI+NjR4NjQ8L3RleHQ+PC9nPjwvZz48L3N2Zz4=\" data-holder-rendered=\"true\">\n          </a>\n        </div>\n        <div class=\"media-body\">\n          <h4 class=\"media-heading article-nav-heading\"><a href=\"#\">Ingin Saingi Slack, Microsoft Bakal Hadirkan Teams</a></h4>\n        </div>\n      </div>\n    </div>\n  </div>\n</div>\n\n<div class=\"col-xs-6 article-next\">\n  <div class=\"article-nav article-nav--next\">\n   <span class=\"article-nav__small-heading\">Selanjutnya <i class=\"fa fa-angle-double-right\"></i></span>\n   <div class=\"article-nav__inner\">\n     <div class=\"media\">\n      <div class=\"media-left\">\n        <a href=\"#\">\n          <img class=\"media-object\" data-src=\"holder.js/64x64\" alt=\"64x64\" style=\"width: 64px; height: 64px;\" src=\"data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiIHN0YW5kYWxvbmU9InllcyI/PjxzdmcgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB3aWR0aD0iNjQiIGhlaWdodD0iNjQiIHZpZXdCb3g9IjAgMCA2NCA2NCIgcHJlc2VydmVBc3BlY3RSYXRpbz0ibm9uZSI+PCEtLQpTb3VyY2UgVVJMOiBob2xkZXIuanMvNjR4NjQKQ3JlYXRlZCB3aXRoIEhvbGRlci5qcyAyLjYuMC4KTGVhcm4gbW9yZSBhdCBodHRwOi8vaG9sZGVyanMuY29tCihjKSAyMDEyLTIwMTUgSXZhbiBNYWxvcGluc2t5IC0gaHR0cDovL2ltc2t5LmNvCi0tPjxkZWZzPjxzdHlsZSB0eXBlPSJ0ZXh0L2NzcyI+PCFbQ0RBVEFbI2hvbGRlcl8xNTBhODMyNmRmNCB0ZXh0IHsgZmlsbDojQUFBQUFBO2ZvbnQtd2VpZ2h0OmJvbGQ7Zm9udC1mYW1pbHk6QXJpYWwsIEhlbHZldGljYSwgT3BlbiBTYW5zLCBzYW5zLXNlcmlmLCBtb25vc3BhY2U7Zm9udC1zaXplOjEwcHQgfSBdXT48L3N0eWxlPjwvZGVmcz48ZyBpZD0iaG9sZGVyXzE1MGE4MzI2ZGY0Ij48cmVjdCB3aWR0aD0iNjQiIGhlaWdodD0iNjQiIGZpbGw9IiNFRUVFRUUiLz48Zz48dGV4dCB4PSIxMy40Njg3NSIgeT0iMzYuNSI+NjR4NjQ8L3RleHQ+PC9nPjwvZz48L3N2Zz4=\" data-holder-rendered=\"true\">\n        </a>\n      </div>\n      <div class=\"media-body\">\n        <h4 class=\"media-heading article-nav-heading\"><a href=\"#\">Perluas Koneksi, ANGIN Bergabung dengan Jaringan Angel Investor ASEAN</a></h4>\n      </div>\n    </div>\n  </div>\n</div>\n</div>\n</div>\n<div class=\"container\">\n  <section id=\"comments-201137\" class=\"comments\">\n   <div class=\"row\">\n    <a name=\"comments-edit-201137\"></a>\n    <form class=\"comments-form\">\n     <div class=\"comments-form__left\">\n      <div class=\"comments-form__author-img\"><img src=\"https://d2wvmuitzlwqfv.cloudfront.net/wp-content/themes/techinasia/img/default-user.jpg\" title=\"Claudio\" alt=\"\"></div>\n    </div>\n    <div class=\"comments-form__textbox\">\n      <div class=\"redactor\">\n       <div class=\"redactor-box\" role=\"application\" dir=\"ltr\">\n        <ul class=\"redactor-toolbar\" id=\"redactor-toolbar-19\" role=\"toolbar\">\n         <li><a href=\"javascript:void(null);\" class=\"re-button re-bold\" title=\"Bold\" rel=\"bold\" role=\"button\" aria-label=\"Bold\" tabindex=\"-1\">B</a></li>\n         <li><a href=\"javascript:void(null);\" class=\"re-button re-italic\" title=\"Italic\" rel=\"italic\" role=\"button\" aria-label=\"Italic\" tabindex=\"-1\">I</a></li>\n         <li><a href=\"javascript:void(null);\" class=\"re-button re-link redactor-toolbar-link-dropdown\" title=\"Link\" rel=\"link\" role=\"button\" aria-label=\"Link\" tabindex=\"-1\" aria-haspopup=\"true\">Link</a></li>\n         <li><a href=\"javascript:void(null);\" class=\"re-button re-quote\" title=\"Quote\" rel=\"quote\" role=\"button\" aria-label=\"Quote\" tabindex=\"-1\">Quote</a></li>\n         <li><a href=\"javascript:void(null);\" class=\"re-button re-unorderedlist\" title=\"Unordered List\" rel=\"unorderedlist\" role=\"button\" aria-label=\"Unordered List\" tabindex=\"-1\">Unordered List</a></li>\n         <li><a href=\"javascript:void(null);\" class=\"re-button re-image\" title=\"Image\" rel=\"image\" role=\"button\" aria-label=\"Image\" tabindex=\"-1\">Image</a></li>\n       </ul>\n       <span class=\"redactor-voice-label\" id=\"redactor-voice-19\" aria-hidden=\"false\">Rich text editor</span>\n       <div class=\"redactor-editor redactor-editor-img-edit redactor-in redactor-relative redactor-placeholder\" aria-labelledby=\"redactor-voice-19\" role=\"presentation\" id=\"redactor-uuid-19\" contenteditable=\"true\" dir=\"ltr\" style=\"min-height: 100px;\" placeholder=\"Leave a comment for Indah Pertiwi...\">\n         <p>​</p>\n       </div>\n       <textarea class=\"form-control\" placeholder=\"Leave a comment for Indah Pertiwi...\" rows=\"10\" name=\"content-19\" style=\"display: none;\"></textarea>\n     </div>\n   </div>\n   <!-- react-text: 3317 --><!-- /react-text -->\n </div>\n</form>\n</div>\n<div class=\"comment-list\">\n  <div class=\"row comment-list__heading-container\">\n   <h3 class=\"comment-list__heading\">\n    <span class=\"comment-list__count\">0</span><!-- react-text: 3322 --> Comments<!-- /react-text -->\n  </h3>\n  <div class=\"dropdown dropdown-mini pull-right\">\n    <a class=\"dropdown-mini__toggle\" data-toggle=\"dropdown\" role=\"link\" aria-expanded=\"false\">\n     <!-- react-text: 3325 -->Sort by Newest<!-- /react-text --><!-- react-text: 3326 -->&nbsp;<!-- /react-text --><span class=\"caret\"></span>\n   </a>\n   <ul class=\"dropdown-menu dropdown-menu-right\">\n     <li><a class=\"\" data-filter=\"oldest\" role=\"link\">Sort by Oldest</a></li>\n     <li><a class=\"\" data-filter=\"popular\" role=\"link\">Sort by Best</a></li>\n     <li><a class=\"selected\" data-filter=\"newest\" role=\"link\">Sort by Newest</a></li>\n   </ul>\n </div>\n</div>\n<!-- react-text: 3335 --><!-- /react-text -->\n<div class=\"comments-achievement-alert\"></div>\n<!-- react-text: 3337 --><!-- /react-text -->\n<p class=\"jumbo-help-text\">What do you think of this article? Share your thoughts with us!</p>\n<!-- react-text: 3339 --><!-- /react-text -->\n</div>\n</section>\n</div>\n<!-- react-text: 3340 --><!-- /react-text -->\n</article>\n</main>\n\n<!-- END Page Content Goes In Here -->\n</div>\n<script src=\"bundle.js\"></script>\n<script>w3IncludeHTML();</script>\n</body>\n</html>",
+			"article-prev",
+			"\">",
+			"article-nav--",
+			"selanjutnya",
+			"article",
+			"related",
+			"span",
+			"css",
+			"featured",
+			"run",
+			"img",
+			"h1",
+			"this.",
+			"head",
+			"blue",
+			"container",
+			"form",
+			"berita ub",
+			";\n",
+			"list"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"<li>",
+			"",
+			"</h3>",
+			"className",
+			"Eka Santhika",
+			"Aditya Hadi Pratama",
+			"Mohamad Rizky Allawy",
+			"eka shantika",
+			"aditya hadi pramana",
+			"      <div class=\"col-xs-12 hidden-md hidden-lg clearfix\">\n        <div class=\"page-header heading-related-bottom\">\n          <h3>Lainnya di <a href=\"#\">Mobile</a></h1>\n          </div>\n          <div class=\"related-article-bottom-outer\">\n            <ul class=\"clearfix\"> \n              <li class=\"clearfix\">\n                <div class=\"col-xs-8\">\n                  <div class=\"article-nav article-nav--prev\">\n                    <div class=\"article-nav__inner\">\n                      <div class=\"media\">\n                        <div class=\"media-left\">\n                          <a href=\"berita2.html\">\n                            <div class=\"related-article-bottom-img-container\">\n                              <img class=\"media-object\" data-src=\"holder.js/64x64\" alt=\"64x64\" src=\"https://d26bwjyd9l0e3m.cloudfront.net/wp-content/uploads/2016/11/pengguna-internet-300x169.jpg\" data-holder-rendered=\"true\">\n                            </div>\n                          </a>\n                        </div>\n                        <div class=\"media-body\">\n                          <h4 class=\"media-heading article-nav-heading\"><a href=\"berita2.html\">Jumlah Akses Web dari Perangkat Mobile Melebihi Akses via Desktop</a></h4>\n                        </div>\n                      </div>\n                    </div>\n                  </div>\n                </div>\n              </li>\n              <li class=\"clearfix\">\n                <div class=\"col-xs-8\">\n                  <div class=\"article-nav article-nav--prev\">\n                    <div class=\"article-nav__inner\">\n                      <div class=\"media\">\n                        <div class=\"media-left\">\n                          <a href=\"berita3.html\">\n                            <div class=\"related-article-bottom-img-container\">\n                              <img class=\"media-object\" data-src=\"holder.js/64x64\" alt=\"64x64\" src=\"https://d26bwjyd9l0e3m.cloudfront.net/wp-content/uploads/2016/11/Aplikasi-Uber-Ilustrasi-300x169.jpg\" data-holder-rendered=\"true\">\n                            </div>\n                          </a>\n                        </div>\n                        <div class=\"media-body\">\n                          <h4 class=\"media-heading article-nav-heading\"><a href=\"berita3.html\">5 Hal Menarik yang Harus Kamu Tahu dari Desain Baru Aplikasi Uber</a></h4>\n                        </div>\n                      </div>\n                    </div>\n                  </div>\n                </div>\n              </li>\n            </ul>\n            <ul class=\"clearfix\"> \n              <li class=\"clearfix\">\n                <div class=\"col-xs-8\">\n                  <div class=\"article-nav article-nav--prev\">\n                    <div class=\"article-nav__inner\">\n                      <div class=\"media\">\n                        <div class=\"media-left\">\n                          <a href=\"berita4.html\">\n                            <div class=\"related-article-bottom-img-container\">\n                              <img class=\"media-object\" data-src=\"holder.js/64x64\" alt=\"64x64\" src=\"https://d26bwjyd9l0e3m.cloudfront.net/wp-content/uploads/2016/11/habitica-feature-min-min-300x169.jpg\" data-holder-rendered=\"true\">\n                            </div>\n                          </a>\n                        </div>\n                        <div class=\"media-body\">\n                          <h4 class=\"media-heading article-nav-heading\"><a href=\"berita4.html\">Review Habitica – Perbaiki Kebiasaanmu dan Jadilah Sang Hero</a></h4>\n                        </div>\n                      </div>\n                    </div>\n                  </div>\n                </div>\n              </li>\n              <li class=\"clearfix\">\n                <div class=\"col-xs-8\">\n                  <div class=\"article-nav article-nav--prev\">\n                    <div class=\"article-nav__inner\">\n                      <div class=\"media\">\n                        <div class=\"media-left\">\n                          <a href=\"berita5.html\">\n                            <div class=\"related-article-bottom-img-container\">\n                              <img class=\"media-object\" data-src=\"holder.js/64x64\" alt=\"64x64\" src=\"https://d26bwjyd9l0e3m.cloudfront.net/wp-content/uploads/2016/11/Perbandingan-Harga-Uber-Grab-GO-CAR-Musim-Hujan-Ilustrasi-300x169.jpg\" data-holder-rendered=\"true\">\n                            </div>\n                          </a>\n                        </div>\n                        <div class=\"media-body\">\n                          <h4 class=\"media-heading article-nav-heading\"><a href=\"berita5.html\">Uber, GO-CAR, dan GrabCar, Mana yang Memberikan Layanan Termurah Saat Hujan?</a></h4>\n                        </div>\n                      </div>\n                    </div>\n                  </div>\n                </div>\n              </li>\n            </ul>\n            <ul class=\"clearfix\"> \n              <li class=\"clearfix\">\n                <div class=\"col-xs-8\">\n                  <div class=\"article-nav article-nav--prev\">\n                    <div class=\"article-nav__inner\">\n                      <div class=\"media\">\n                        <div class=\"media-left\">\n                          <a href=\"berita6.html\">\n                            <div class=\"related-article-bottom-img-container\">\n                              <img class=\"media-object\" data-src=\"holder.js/64x64\" alt=\"64x64\" src=\"https://d26bwjyd9l0e3m.cloudfront.net/wp-content/uploads/2016/04/WhatsApp-Encryption-2-300x169.jpg\" data-holder-rendered=\"true\">\n                            </div>\n                          </a>\n                        </div>\n                        <div class=\"media-body\">\n                          <h4 class=\"media-heading article-nav-heading\"><a href=\"berita6.html\">WhatsApp Menjadi Aplikasi dengan Tingkat Keamanan Tertinggi</a></h4>\n                        </div>\n                      </div>\n                    </div>\n                  </div>\n                </div>\n              </li>\n              <li class=\"clearfix\">\n                <div class=\"col-xs-8\">\n                  <div class=\"article-nav article-nav--prev\">\n                    <div class=\"article-nav__inner\">\n                      <div class=\"media\">\n                        <div class=\"media-left\">\n                          <a href=\"berita7.html\">\n                            <div class=\"related-article-bottom-img-container\">\n                              <img class=\"media-object\" data-src=\"holder.js/64x64\" alt=\"64x64\" src=\"https://d26bwjyd9l0e3m.cloudfront.net/wp-content/uploads/2016/08/Samsung-Galaxy-Note-7-Foto-300x169.jpg\" data-holder-rendered=\"true\">\n                            </div>\n                          </a>\n                        </div>\n                        <div class=\"media-body\">\n                          <h4 class=\"media-heading article-nav-heading\"><a href=\"berita7.html\">Profit Samsung Anjlok 17% Akibat Insiden Galaxy Note7</a></h4>\n                        </div>\n                      </div>\n                    </div>\n                  </div>\n                </div>\n              </li>\n            </ul>\n          </div>\n        </div>",
+			"",
+			"http://www.google.com",
+			"container",
+			"-60px",
+			"for (var i = 0; i < data.data.results.count; i++) {\n\t\t\tstrProvinsi += '<option value=\"'+data.data.results.provinces[i].id+'\">'+data.data.results.provinces[i].nama+'</option>';\n\t\t}",
+			"host",
+			"call",
+			"",
+			"idenkk.",
+			"status",
+			"1",
+			"0",
+			"\tmargin-top: -16px;\n \t\tdisplay: block;\n \t\tright: 25px;\n \t\tposition: absolute;\n \t\tfont-size: 12px;\n \t\tcolor: #32B75E;",
+			"console.log",
+			"    watch: {\n  scripts: {\n    files: ['**/*.js'],\n    tasks: ['jshint'],\n    options: {\n      spawn: false,\n    },\n  },\n},",
+			"clearfix-popup-rangkumin",
+			"-",
+			".popup-rangkumin-",
+			".popup-rangkumin-emot.",
+			"",
+			" ",
+			"",
+			", ",
+			"",
+			"kursi-grey.png",
+			"<br><br>Sabtu",
+			"tile-item-featured-inner col-xs-12",
+			"tile-category col-xs-12 col-sm-6 col-md-4 col-lg-4",
+			"tile-category col-xs-12 col-sm-6 col-md-8 col-lg-8",
+			"",
+			" ",
+			"logo-inverted.png",
+			"src=\"<?php bloginfo('template_directory'); ?>/img",
+			"Senggigi",
+			" ",
+			"dataResult",
+			" ",
+			"Amount",
+			"type=\"radio\" name=\"detailUsaha\"",
+			"Step",
+			"type=\"radio\" name=\"detailUsaha\"",
+			"Step",
+			"../assets/img/",
+			"blog-single.php",
+			"Handal",
+			"Anda"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"default_dir": "/Volumes/DATA 1/_DEVEL/30 Days React",
+							"incomplete_sync": null,
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 63.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": false,
+	"output.CSS Extended Completions":
+	{
+		"height": 0.0
+	},
+	"output.FuseBuildResults":
+	{
+		"height": 110.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 86.0
+	},
+	"pinned_build_system": "",
+	"project": "react-with-grunt-starter.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 172.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
