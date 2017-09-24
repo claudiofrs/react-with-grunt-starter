@@ -1,0 +1,73 @@
+/*========================= MIXINS AND FUNCTION =========================*/
+body {
+  background-color: #FAFAFA; }
+
+html, .root {
+  font-size: 14px;
+  line-height: 28px; }
+
+body, .article {
+  font-family: sans-serif;
+  font-size: 1em;
+  line-height: 2em;
+  max-width: 560px;
+  margin: auto; }
+
+h1, .h1 {
+  font-size: 4.21428571em;
+  line-height: 1.42372881em;
+  margin-top: 0.47457627em;
+  margin-bottom: 0.94915254em; }
+
+h2, .h2 {
+  font-size: 2.64285714em;
+  line-height: 1.51351351em;
+  margin-top: 0.75675676em;
+  margin-bottom: 0.75675676em; }
+
+h3, .h3 {
+  font-size: 1.64285714em;
+  line-height: 1.2173913em;
+  margin-top: 1.2173913em;
+  margin-bottom: 0em; }
+
+h4, .h4 {
+  font-size: 1em;
+  line-height: 2em;
+  margin-top: 2em;
+  margin-bottom: 0em; }
+
+h5, .h5 {
+  font-size: 1em;
+  line-height: 2em;
+  margin-top: 2em;
+  margin-bottom: 0em; }
+
+p, ul, ol, pre, table, blockquote {
+  margin-top: 0em;
+  margin-bottom: 2em; }
+
+ul ul, ol ol, ul ol, ol ul {
+  margin-top: 0em;
+  margin-bottom: 0em; }
+
+/* Let's make sure all's aligned */
+hr, .hr {
+  border: 1px solid;
+  margin: -1px 0; }
+
+a, b, i, strong, em, small, code {
+  line-height: 0; }
+
+sub, sup {
+  line-height: 0;
+  position: relative;
+  vertical-align: baseline; }
+
+sup {
+  top: -0.5em; }
+
+sub {
+  bottom: -0.25em; }
+
+/*# sourceMappingURL=style.css.map */
