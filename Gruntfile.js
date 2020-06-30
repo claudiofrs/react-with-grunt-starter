@@ -6,6 +6,7 @@ module.exports = function(grunt) {
   // Time your grunt tasks and never need to loadGruntTask again
   // require('time-grunt')(grunt);
   // require('load-grunt-tasks')(grunt);
+  mode: 'development'
 
   grunt.initConfig({
     pkg: grunt.file.readJSON('package.json'),
@@ -39,7 +40,7 @@ module.exports = function(grunt) {
       scripts: {
         files: ['<%= project.dev %>/js/dev/**/*.js', 'Gruntfile.js'],
         // tasks: ['webpack:build', 'jshint'], // !important
-        tasks: ['webpack:build', 'jshint'], // !important
+        tasks: ['webpack:build', 'eslint'], // !important
         options: {
           livereload: true,
           reload: true
@@ -70,18 +71,15 @@ module.exports = function(grunt) {
       },
 
     // lint js
-    jshint: {
-      options: {
-        reporter: require('jshint-stylish'),
-        jshintrc: true
-      },
-      dev: ['<%= project.dev %>/js/dev/**/*.js', '<%= project.dev %>/js/dev/app.js']
+    eslint: {
+      target: ['<%= project.dev %>/js/dev/**/*.js', '<%= project.dev %>/js/dev/index.js']
     },
 
     // webpack !pay attention to this task!
     webpack: {
       build: {
-        entry: ['./src/js/dev/app.js'],
+        mode: 'development',
+        entry: ['./src/js/dev/index.js'],
         output: {
           path: __dirname + '/src/js',
           filename: 'app.js'
@@ -97,10 +95,17 @@ module.exports = function(grunt) {
         watch: true,
         keepalive: false, // biar ga blocking task selanjutnya
         module: {
-          loaders: [
+          rules: [
             { test: /\.(js|jsx)$/, 
               exclude: /node_modules/, 
-              loader: "babel-loader" 
+              use: [
+                {
+                  loader: 'babel-loader',
+                  options: {
+                    presets: ['react']
+                  }
+                }
+              ]
             }
           ]
         }
@@ -114,7 +119,7 @@ module.exports = function(grunt) {
   grunt.loadNpmTasks('grunt-contrib-watch');
   grunt.loadNpmTasks('grunt-webpack');
   grunt.loadNpmTasks('grunt-contrib-sass');
-  grunt.loadNpmTasks('grunt-contrib-jshint');
+  grunt.loadNpmTasks('grunt-eslint');
 
   grunt.registerTask('default', ['develop']);
   grunt.registerTask('develop', [
